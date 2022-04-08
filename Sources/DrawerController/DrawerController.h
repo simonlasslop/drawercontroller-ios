@@ -10,6 +10,7 @@
 #import "MMDrawerController.h"
 #import "UIViewController+MMDrawerController.h"
 #import "MMDrawerVisualState.h"
+#import "MMDrawerController+Subclass.h"
 
 
 NS_ASSUME_NONNULL_BEGIN
